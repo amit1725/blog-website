@@ -5,7 +5,7 @@ const Header = () => {
     <div className='w-full border shadow-md py-4 fixed top-0 bg-white'>
       <header className='text-center'>
         <h1 className='text-3xl font-bold'>
-            CODEHELP BLOGS
+            BLOGS WEBSITE
         </h1>
       </header>
     </div>
